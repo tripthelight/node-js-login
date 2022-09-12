@@ -1,5 +1,5 @@
-### NODE JS LOGIN
-# When registering as a member, your password is encrypted with bcrypt.
+## NODE JS LOGIN
+### When registering as a member, your password is encrypted with bcrypt.
 
 1. RUN ORDER
 - git clone https://github.com/tripthelight/node-js-login.git
